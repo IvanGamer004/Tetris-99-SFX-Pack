@@ -1,0 +1,10 @@
+{
+  "name": "Tetris 99 SFX Pack",
+  "description": "This pack includes UI sounds from Tetris 99 for Switch.",
+  "author": "IvanGamer004",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
