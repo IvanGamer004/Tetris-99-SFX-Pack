@@ -16,30 +16,5 @@
     "deck_ui_slider_up.wav",
     "pop_sound.wav"
   ],
-  "mappings": {
-      "deck_ui_achievement_toast.wav": ["se_game_perfect.wav"],
-      "deck_ui_bumper_end_02.wav": ["se_sys_alert.wav"],
-      "deck_ui_default_activation.wav": ["se_sys_select.wav"],
-      "deck_ui_hide_modal.wav": ["se_sys_dialog.wav"],
-      "deck_ui_into_game_detail.wav": ["se_sys_select.wav"],
-      "deck_ui_launch_game.wav": ["se_sys_ok.wav"],
-      "deck_ui_misc_10.wav": ["se_sys_cursor1.wav"],
-      "deck_ui_navigation.wav": ["se_game_move.wav"],
-      "deck_ui_out_of_game_detail.wav": ["se_sys_cancel.wav"],
-      "deck_ui_show_modal.wav": ["se_sys_dialog.wav"],
-      "deck_ui_side_menu_fly_in.wav": ["se_game_pause.wav"],
-      "deck_ui_side_menu_fly_out.wav": ["se_sys_select.wav"],
-      "deck_ui_switch_toggle_off.wav": ["se_sys_cursor1.wav"],
-      "deck_ui_switch_toggle_on.wav": ["se_sys_cursor1.wav"],
-      "deck_ui_tab_transition_01.wav": ["se_sys_cursor2.wav"],
-      "deck_ui_tile_scroll.wav": ["se_sys_cursor1.wav"],
-      "deck_ui_toast.wav": ["ses_sys_save.wav"],
-      "deck_ui_typing.wav": ["se_game_softdrop.wav"],
-      "deck_ui_volume.wav": ["se_game_single.wav"],
-      "steam_at_mention.m4a": ["me_game_plvup.wav"],
-      "steam_chatroom_notification.m4a": ["se_game_emblemget.wav"],
-      "ui_steam_message_old_smooth.m4a": ["se_game_kbcomp.wav"],
-      "ui_steam_smoother_friend_join.m4a": ["se_game_match.wav"],
-      "ui_steam_smoother_friend_online.m4a": ["se_game_kbget.wav"]
-  }
+  "image": "https://cdn2.steamgriddb.com/grid/82f1d759ff02927000d2ccd223409135.png"
 }
